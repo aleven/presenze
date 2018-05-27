@@ -3,6 +3,8 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import 'material-design-lite/material.min.css'
+import 'material-design-lite/material.min'
 
 Vue.config.productionTip = false
 
